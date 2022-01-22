@@ -6,5 +6,20 @@ namespace ContactList
         {
             InitializeComponent();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAddContact_Click(object sender, EventArgs e)
+        {
+            Contact obj = new Contact();
+            obj.FirstName = txtFirstName.Text;
+            obj.LastName = txtLastName.Text;
+            obj.Phone = txtPhone.Text;
+
+            lstContacts.Items.Add(obj.ToString());
+        }
     }
 }

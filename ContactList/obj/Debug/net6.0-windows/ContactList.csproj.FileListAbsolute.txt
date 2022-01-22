@@ -1,0 +1,17 @@
+D:\Programming\CSharp\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.exe
+D:\Programming\CSharp\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.deps.json
+D:\Programming\CSharp\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.runtimeconfig.json
+D:\Programming\CSharp\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.dll
+D:\Programming\CSharp\ContactList\ContactList\bin\Debug\net6.0-windows\ref\ContactList.dll
+D:\Programming\CSharp\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.pdb
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.csproj.AssemblyReference.cache
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.Form1.resources
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.csproj.GenerateResource.cache
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.AssemblyInfoInputs.cache
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.AssemblyInfo.cs
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.dll
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ref\ContactList.dll
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.pdb
+D:\Programming\CSharp\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.genruntimeconfig.cache
