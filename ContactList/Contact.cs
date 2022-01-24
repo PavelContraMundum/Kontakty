@@ -25,13 +25,13 @@ namespace ContactList
         {
             get { return phone; }
             set {
-                if (value.Length == 10)
+                if (value.Length == 9)
                 {
                     phone = value;
                 }
                 else
                 {
-                    phone = "0000000000";
+                    phone = "000000000";
                 }
             }
         }
@@ -40,7 +40,7 @@ namespace ContactList
             {
             FirstName = "John";
             LastName = "Doe";
-            Phone = "0000000000";
+            Phone = "000000000";
             }
 
         public Contact(string firstName, string lastName, string phone)
@@ -50,12 +50,12 @@ namespace ContactList
             Phone = phone;
         }
 
-        public override string ToString()
+        public string ListFormat()
         {
             string output = String.Empty;
 
             output += String.Format("{0}, {1} ", LastName, FirstName);
-            output += String.Format("({0}) {1}-{2}", Phone.Substring(0,3), Phone.Substring(3,3), Phone.Substring(6,4));
+            output += String.Format("({0}) {1}-{2}", Phone.Substring(0,3), Phone.Substring(3,3), Phone.Substring(6,3));
 
             return output;
         }
