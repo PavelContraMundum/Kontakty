@@ -50,7 +50,7 @@ namespace ContactList
             Phone = phone;
         }
 
-        public string ListFormat()
+        public string ListFormat()  //raději nepoužívat override ToString
         {
             string output = String.Empty;
 
