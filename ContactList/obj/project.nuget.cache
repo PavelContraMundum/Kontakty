@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qRHScKu+Y8kSUM1bG2eEFmkGYtDCk5KIfXo6SB5Z+5hEeWVOgOAte5LHgrpWi1lRSjd28wlGja6SGrFGSLvYAw==",
+  "dgSpecHash": "J0iQTBIab8tZkJxovgMnXo3Bmqua4lTzVl4Asltz/U9UwQ9+BlT5M2iwXzl65XhzErl7OTp5TSwMQzOE9Vwizg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pavel\\Desktop\\ContactList\\ContactList\\ContactList.csproj",
+  "projectFilePath": "D:\\Programming\\CSharp\\ContactList\\ContactList\\ContactList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
